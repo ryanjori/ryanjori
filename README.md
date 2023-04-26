@@ -38,7 +38,7 @@
 
 <br>
 
-<h1 align="center">GitHub Analytics</h1>
+<h1 align="left">GitHub Analytics</h1>
 
 <div align="center" style='display: inline_block'>
 	<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ryanjori&show_icons=true&theme=dracula"/>
