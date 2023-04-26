@@ -16,7 +16,7 @@
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-	<img align="right" alt="lilguy" src="https://cdn.discordapp.com/attachments/799411836906504233/1100797253251239966/download20230403115540.png" >
+	<img align="right" alt="lilguy" src="https://cdn.discordapp.com/attachments/799411836906504233/1100797253251239966/download20230403115540.png" width="80" height="80">
 </div>
 
 <div>	
