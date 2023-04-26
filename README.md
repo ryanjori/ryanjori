@@ -32,7 +32,7 @@
 <h1>GitHub Analytics</h1>
 
 <div align="left" style='display: inline_block'>
-	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ryanjori&show_icons=true&theme=dracula"/>
-	<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjori&layout=compact&langs_count=4&theme=dracula"/>
+	<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ryanjori&show_icons=true&theme=dracula"/>
+	<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjori&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 
