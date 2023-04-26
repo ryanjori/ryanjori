@@ -34,3 +34,5 @@
 	<a href="https://linkedin.com/in/ryanjori" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryanjori" height="30" width="40" /></a> <a href="https://instagram.com/jgr_ryan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jgr_ryan" height="30" width="40" /></a>
 </p>
 
+![snake gif](https://github.com/ryanjori/ryanjori/blob/output/github-contribution-grid-snake.svg)
+
