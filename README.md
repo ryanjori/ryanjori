@@ -3,6 +3,13 @@
 
 <hr>
 
+- 🔭 Em busca do **primeiro emprego**.
+
+- 🌱 Atualmente aprendendo mais sobre **React e responsividade**
+
+- 👯 Quero construir minha carreira em **front-end development**
+
+<hr>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
