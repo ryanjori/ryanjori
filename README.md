@@ -1,11 +1,6 @@
 <h1 align="center">Eae, eu sou o Ryan Ribeiro!!!</h1>
 <h3 align="center">A front-end developer from Brazil</h3>
 
-<div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanjori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjori&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 <hr>
 
 
@@ -34,5 +29,10 @@
 	<a href="https://linkedin.com/in/ryanjori" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryanjori" height="30" width="40" /></a> <a href="https://instagram.com/jgr_ryan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jgr_ryan" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/ryanjori/ryanjori/blob/output/github-contribution-grid-snake.svg)
+<h1>GitHub Analytics</h1>
+##
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanjori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjori&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
