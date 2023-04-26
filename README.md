@@ -9,6 +9,7 @@
 
 - 👯 Quero construir minha carreira em **front-end development**
 
+<br>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
@@ -28,11 +29,14 @@
 </p>
 </div>
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/ryanjori" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryanjori" height="30" width="40" /></a> <a href="https://instagram.com/jgr_ryan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jgr_ryan" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h1>GitHub Analytics</h1>
 
