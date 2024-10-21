@@ -1,13 +1,12 @@
-<h1 align="center">Eae, eu sou o Ryan Ribeiro!!!</h1>
-<h3 align="center">A front-end developer from Brazil</h3>
+<h1 align="center">Olá mundo!</h1>
+<h1 align="center">Eu sou o Ryan Ribeiro!!!</h1>
+<h3 align="center">Estudante de Tecnologia</h3>
 
 <hr>
 
-- 🔭 Em busca do **primeiro emprego**.
+- 🔭 Em busca de me consolidar na área de tecnologia.
 
-- 🌱 Atualmente aprendendo mais sobre **React e responsividade**
-
-- 👯 Quero construir minha carreira em **front-end development**
+- 🌱 Atualmente estagiando na AMBEV
 
 <br>
 
